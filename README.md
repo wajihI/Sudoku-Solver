@@ -1,8 +1,8 @@
 # Sudoku-Solver
 Functional program that solves a Sudoku problem using backtracking algorithm.
 
-BACKTRACKING ALGORITHM EXPLAINED: 
-Backtracking: 
+BACKTRACKING ALGORITHM
+Backtracking:
 1. Pick an empty square
 2. Try all possible numbers
 3. Identify one that works (based on Sudoku rules e.g. only 1 unique number per row, column, square/grid)
