@@ -74,6 +74,7 @@ def find_empty(bo):
     
     return None
 
+# For illustration purposes: 
 print_board(board)
 solve(board)
 print("______________________")
